@@ -10,5 +10,5 @@ be able to validate and interrogate files.
 
 > ## Prerequisites
 >
-> It is recommended that you complete the lesson (Shell Lessons for Librarians)[https://librarycarpentry.github.io/lc-shell/].
+> It is recommended that you complete the lesson [Shell Lessons for Librarians](https://librarycarpentry.github.io/lc-shell/).
 {: .prereq}
