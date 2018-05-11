@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of file systems?"
+title: "Fundamentals of file systems"
 teaching: 20
 exercises: 10
 questions:
