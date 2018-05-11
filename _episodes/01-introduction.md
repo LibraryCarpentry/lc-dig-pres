@@ -1,11 +1,24 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "What are files?"
+teaching: 20
+exercises: 10
 questions:
-- "Key question"
+- "What is a filesystem?"
+- "What is a file?"
 objectives:
-- "First objective."
+- "Explain the basics of filesystems"
+- "Explain what a file is"
 keypoints:
-- "First key point."
+- "Filesystems vary across computer systems"
+- "File types are not always obvious"
 ---
+
+## Introduction: What is a file system?
+
+Stub content.
+
+
+
+
+### What is a file?
+More content.
